@@ -12,4 +12,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O conversor de moedas é um site para ajudar a converter o dolár em real(brasileiro)
 
-Feito com ♥ by Alura :wave: [conheça a maior escola online de tecnologia do Brasil](https://www.alura.com.br/)
+
